@@ -1,3 +1,6 @@
 # CRUD-Node-jS-Express
-Npm install
-Npm start
+First
+npm install
+
+second 
+nodemon .
